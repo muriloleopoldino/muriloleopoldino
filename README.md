@@ -1,4 +1,4 @@
-## Hi there 😎
+## Hi there! 😎
 
 🤓  Eu sou o Murilo Leopoldino, um programador Front-End. Atualmente estou aprendendo e criando projetos com:
 <br>
@@ -8,3 +8,10 @@
 -  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo">
 <br><br>
 ##  Conecte comigo! 🌐
+<a href="https://linkedin.com/in/seu-perfil" target="_blank" rel="noopener">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32">
+<br><br><br>
+  
+## Estatísticas! 📝
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloleopoldino)](https://github.com/anuraghazra/github-readme-stats)
+
